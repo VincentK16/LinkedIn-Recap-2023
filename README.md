@@ -1,6 +1,6 @@
 # LinkedIn Recap 2023
 
-<p align="center"><img  width="960" alt="image" src="https://github.com/VincentK16/LinkedIn-Recap-2023/assets/3338753/94ff408a-ee86-4337-aa2c-bb85fec7a501"></p>
+<p align="center"><img  width="960" alt="image" src="https://github.com/VincentK16/LinkedIn-Recap-2023/assets/3338753/7a375a9c-b617-455e-851b-f99886555438"></p>
 
 <br></br>
 ![image](https://github.com/VincentK16/LinkedIn-Recap-2023/assets/3338753/16896578-4a85-47a2-8920-017785a3d303)
